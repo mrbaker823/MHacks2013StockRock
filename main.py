@@ -1,6 +1,0 @@
-class main(object):
-    pass
-
-
-
-
